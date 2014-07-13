@@ -4,6 +4,7 @@
   "description": "PxMolinA server Feed",
   "dependencies": {
     "cheerio": "^0.17.0",
+    "memjs": "git://github.com/alevy/memjs.git#master",
     "request": "^2.37.0"
   },
   "main": "web.js",
